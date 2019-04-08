@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notifications_Maya1017_C</string>
+    <string name="judul">Judul</string>
+    <string name="pesan">Pesan</string>
+    <string name="kirim_ke_channel_1">Kirim ke Channel 1</string>
+    <string name="kirim_ke_channel_2">Kirim ke Channel 2</string>
+
+</resources>
